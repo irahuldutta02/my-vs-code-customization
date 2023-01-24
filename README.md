@@ -112,8 +112,18 @@
 ```
 
 ## ⚙️ VS Code Extension
-1. Code Runner : formulahendry.code-runner
-2. Java Pack : vscjava.vscode-java-pack
+### Must
+1. Code Runner : `formulahendry.code-runner`
+2. Dracula Official : `dracula-theme.theme-dracula`
+3. Auto Close Tag : `formulahendry.auto-close-tag`
+4. Auto Rename Tag : `formulahendry.auto-rename-tag`
+
+### Web Developmet
+1. Live Server : `ritwickdey.LiveServer`
+2. Bracket Pair Colorizer 2 : `CoenraadS.bracket-pair-colorizer-2`
+
+### Java
+1. Java Pack : `vscjava.vscode-java-pack`
 
 
 ## 🎨 VS Code Themes
