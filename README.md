@@ -112,11 +112,12 @@
 ```
 
 ## ⚙️ VS Code Extension
-### Must
+### Common
 1. Code Runner : `formulahendry.code-runner`
 2. Dracula Official : `dracula-theme.theme-dracula`
 3. Auto Close Tag : `formulahendry.auto-close-tag`
 4. Auto Rename Tag : `formulahendry.auto-rename-tag`
+5. Prettier - Code formatter : `esbenp.prettier-vscode`
 
 ### Web Developmet
 1. Live Server : `ritwickdey.LiveServer`
@@ -124,6 +125,11 @@
 
 ### Java
 1. Java Pack : `vscjava.vscode-java-pack`
+
+### JavaScript
+1. JavaScript and TypeScript Nightly : `ms-vscode.vscode-typescript-next`
+2. JavaScript (ES6) code snippets : `xabikos.JavaScriptSnippets`
+3. ESLint : `dbaeumer.vscode-eslint`
 
 
 ## 🎨 VS Code Themes
