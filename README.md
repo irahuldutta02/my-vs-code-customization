@@ -112,6 +112,8 @@
 ```
 
 ## ⚙️ VS Code Extension
+1. Code Runner : formulahendry.code-runner
+2. Java Pack : vscjava.vscode-java-pack
 
 
 ## 🎨 VS Code Themes
